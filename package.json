@@ -8,7 +8,6 @@
   },
   "dependencies": {
 	 "riot": "2.2.4",
-   "riotcontrol": "0.0.1"
   },
   "author": "",
   "license": "ISC"
