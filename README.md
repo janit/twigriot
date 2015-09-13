@@ -1,7 +1,7 @@
 # twigriot
 POC implementation of Rendering Riot.js tags in Twig.
 
-Twig is everywhere. eZ Platform, Bolt, Drupal 8 and other popular projects have adopted it. At the same time Node.js and Web Components have risen to popularity. They often run 
+Twig is everywhere. eZ Platform, Bolt, Drupal 8 and other popular projects have adopted it. At the same time Node.js and Web Components have risen to popularity. This tries to merge the popular PHP templating library Twig to Riot js, a lightweight React-like library.
 
 This Proof of Concept (POC) implementation of a twig function to render Riot.js (https://github.com/riot/riot) components on the server side using an example Yandex Maps component (https://www.symfony.fi/entry/build-a-web-component-with-riot-js-and-yandex-maps).
 
