@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>Malloc, attorney at code</title>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/riot/2.2/riot.min.js"></script>
+
+<h1>Yandex Map Riot.js Component rendered via Twig</h1>
+
+{{ riot_render('ymap',coords) }}
+
+<script>
+
+	var lat = {{ coords.0 }};
+	var lon = {{ coords.1 }};
+
+	riot.mount('*');
+</script>
+
+<p>Visit <a href="http://malloc.fi/">Malloc.fi</a>
+
+</body>
+<html>

@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twig/twig": "~1.0",
+        "symfony/process": "^2.7"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
