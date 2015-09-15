@@ -5,7 +5,7 @@ Twig is everywhere. eZ Platform, Bolt, Drupal 8 and other popular projects have 
 
 This Proof of Concept (POC) implementation of a twig function to render Riot.js (https://github.com/riot/riot) components on the server side using an example Yandex Maps component (https://www.symfony.fi/entry/build-a-web-component-with-riot-js-and-yandex-maps).
 
-Read the article describing the internals: https://www.symfony.fi/entry/rendering-riot-js-tags-in-twig
+Read the article describing the internals: https://www.symfony.fi/entry/rendering-riot-js-tags-in-twig-using-node-js
 
 ## Install
 
