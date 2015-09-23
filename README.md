@@ -13,7 +13,7 @@ The application is a pretty standard bare bones PHP application. You'll need nod
 
 ```bash
 curl -s http://getcomposer.org/installer | php
-php composer.php install
+php composer.phar install
 npm i
 ```
 
